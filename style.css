@@ -1,0 +1,58 @@
+ul{
+  list-style-type: none;
+}
+
+li{
+  margin-bottom: 30px;
+  text-decoration: none;
+}
+
+.col-lg-12{
+margin: 70px;
+background: none;
+}
+
+.col-lg-9{
+position: relative;
+align-items: center;
+}
+
+.FUCKBox{
+position: absolute;
+width: 600px;
+height: 100px;
+z-index: 1;
+background-color: #fff;
+background: #fff;
+}
+
+.twitterFeed{
+position: fixed;
+z-index: 10;
+background: none;
+}
+
+.col-lg-3{
+  align-items: right;
+  font-family: 'Roboto', sans-serif;
+  font-style: bold;
+  color: black;
+  background: white;
+  padding-top: 20px;
+  padding-right: 40px;
+  padding-left: 0px;
+
+
+}
+
+#instructions{
+    font-family: 'Roboto', sans-serif;
+    font-style: bold;
+    color: black;
+    background-color: white;
+}
+
+/*#CenterTweet{
+  position: center;
+  text-align: center;
+}*/
