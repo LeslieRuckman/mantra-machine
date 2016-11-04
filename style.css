@@ -17,20 +17,20 @@ position: relative;
 align-items: center;
 }
 
-.FUCKBox{
+/*.FUCKBox{
 position: absolute;
-width: 550px;
+width: 650px;
 height: 100px;
 z-index: 1;
 background-color: #fff;
 background: #fff;
 }
 
-.twitterFeed{
+#myCanvas{
 position: fixed;
 z-index: 10;
 background: none;
-}
+}*/
 
 .col-lg-3{
   align-items: right;
